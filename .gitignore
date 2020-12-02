@@ -1,0 +1,4 @@
+.vs/*
+Mandelbrot/*.user
+Mandelbrot/Debug/*
+Mandelbrot/x64/*
